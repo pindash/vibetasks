@@ -22,7 +22,8 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+       "bundler": "webpack" // Add this line
     },
     "description": "Quickly generate React Native components with AI"
   }
