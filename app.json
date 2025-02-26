@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "a0-project",
+    "name": "vibetasks",
     "slug": "snack-204d1496-8948-4b83-b2f7-0b098bcfeeeb",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/vibetasks-icon.png",
         "backgroundColor": "#ffffff"
       }
     },
@@ -25,6 +25,6 @@
       "favicon": "./assets/favicon.png",
        "bundler": "webpack" // Add this line
     },
-    "description": "Quickly generate React Native components with AI"
+    "description": "Logisticate with Vibes"
   }
 }
