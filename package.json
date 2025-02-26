@@ -2,11 +2,15 @@
   "license": "0BSD",
   "main": "index.ts",
   "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
-  },
+  "start": "expo start",
+  "android": "expo start --android",
+  "ios": "expo start --ios",
+  "web": "expo start --web",
+  "export:web": "expo export:web",
+  "deploy": "gh-pages -d web-build"
+},
+
+  "homepage": "https://pindash.github.io/vibetasks/",
   "dependencies": {
     "@babel/preset-react": "^7.26.3",
     "@expo/metro-runtime": "~4.0.1",
