@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Quickly generate React Native components with AI",
+  "display": "standalone",
+  "lang": "en",
+  "name": "a0-project",
+  "short_name": "a0-project",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
