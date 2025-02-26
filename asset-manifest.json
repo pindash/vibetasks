@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.a441de99.js",
-    "static/js/980.81a79d37.js": "/static/js/980.81a79d37.js",
-    "static/media/MaterialIcons.ttf": "/static/media/MaterialIcons.f20305dee9d396fea5c7.ttf",
-    "static/media/FontAwesome.ttf": "/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon-16.png": "/favicon-16.png",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "main.a441de99.js.map": "/static/js/main.a441de99.js.map",
-    "980.81a79d37.js.map": "/static/js/980.81a79d37.js.map"
+    "main.js": "/vibetasks/static/js/main.66a49cca.js",
+    "static/js/980.bd5ff71c.js": "/vibetasks/static/js/980.bd5ff71c.js",
+    "static/media/MaterialIcons.ttf": "/vibetasks/static/media/MaterialIcons.f20305dee9d396fea5c7.ttf",
+    "static/media/FontAwesome.ttf": "/vibetasks/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "favicon.ico": "/vibetasks/favicon.ico",
+    "index.html": "/vibetasks/index.html",
+    "favicon-32.png": "/vibetasks/favicon-32.png",
+    "favicon-16.png": "/vibetasks/favicon-16.png",
+    "manifest.json": "/vibetasks/manifest.json",
+    "serve.json": "/vibetasks/serve.json",
+    "main.66a49cca.js.map": "/vibetasks/static/js/main.66a49cca.js.map",
+    "980.bd5ff71c.js.map": "/vibetasks/static/js/980.bd5ff71c.js.map"
   },
   "entrypoints": [
-    "static/js/980.81a79d37.js",
-    "static/js/main.a441de99.js"
+    "static/js/980.bd5ff71c.js",
+    "static/js/main.66a49cca.js"
   ]
 }
