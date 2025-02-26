@@ -40,6 +40,7 @@
     "@babel/core": "^7.25.2",
     "@expo/webpack-config": "^19.0.1",
     "@types/react": "~18.3.12",
+    "gh-pages": "^6.3.0",
     "typescript": "^5.3.3"
   },
   "private": true
